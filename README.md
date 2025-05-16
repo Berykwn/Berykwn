@@ -2,7 +2,7 @@
 
 ## About Me
 
-I'm an ordinary programmer currently working at a startup in Jakarta as a Software Engineer. I specialize in Angular, TypeScript, Ionic, and Laravel. I hold a degree in Information Systems and have also completed a Frontend Engineer bootcamp. I'm passionate about building impactful software and continuously learning new technologies.
+I'm currently working as an IT Developer at PT Priamanaya Energi, where I build asset management systems using IBM Maximo and BIRT. My stack includes Java, JavaScript, and Jython.
 
 ## Technologies
 
@@ -45,7 +45,7 @@ For more details on my projects, please check out my [repositories](https://gith
 
 ## Contact
 
-You can reach me at [berykurniawan46@gmail.com] or connect with me on [LinkedIn](https://www.linkedin.com/in/berrykwn).
+You can reach me at [berykurniawan22@gmail.com] or connect with me on [LinkedIn](https://www.linkedin.com/in/berrykwn).
 
 ## Stats
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/berykwn?cardType=level-alternate&theme=github-dark&preferLogin=false)](https://git.io/awesome-stats-card)
